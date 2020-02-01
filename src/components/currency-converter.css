@@ -1,0 +1,12 @@
+body .currency-converter {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+    height: 100vh;
+}
+
+.currency-converter .equalto{
+    font-size: 5em;
+    padding-left: 50px;
+}
